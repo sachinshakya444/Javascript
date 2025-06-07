@@ -28,5 +28,12 @@ console.log(a) // becoz let is blocks code
 
 console.log(a)
 
+// var is global 
+
+
+
+
+
+
 
 
