@@ -30,3 +30,19 @@ const s = "Sachin"
 for (const iterator of s) {
     console.log(iterator)
 }
+
+//while loop
+
+let i=0;
+while(i<6)
+{
+    console.log(i)
+    i++;
+}
+
+// do while loop
+let p=10
+do {
+    console.log(p)
+    p++
+} while (p<6);
