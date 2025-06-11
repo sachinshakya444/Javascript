@@ -15,3 +15,6 @@ else{
 console.log("Your number is " + a);
 
 document.title = "HEy i am Sachin"
+
+document.body.style.backgroundColor = "red"  //this code add inline css
+
